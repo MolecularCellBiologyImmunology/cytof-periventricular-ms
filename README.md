@@ -7,4 +7,4 @@ The code in this repository was used to analyse the mass cytometry data of periv
 
 
 # Population identification, differential abundance and marker expression
-The files 'CP_CyTOF_analysis.R' and 'CP_CyTOF_analysis_zoom.R' contain the main scripts for analysing the general populations (Figures of the manuscript 1b-d, 4a-b, 6b-c) and zooming into subpopulations (Figures 2a and 2c, 3a-d, 5a-e, 7a-e), respectively.
+The files 'CP_CyTOF_analysis.R' and 'CP_CyTOF_analysis_zoom.R' contain the main scripts for analysing the general populations (Figures of the manuscript 1b-d, 4a-b, 6b-c) and zooming into subpopulations (Figures 2a and 2c, 3a-d, 5a-e, 7a-e), respectively. They call functions contained in the folder `custom-functions`.
