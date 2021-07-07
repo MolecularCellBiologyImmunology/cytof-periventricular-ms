@@ -1,4 +1,4 @@
-# cytof-periventricular-ms
+# CyTOF analysis of periventricular immune cells in MS
 
 # Purpose
 
